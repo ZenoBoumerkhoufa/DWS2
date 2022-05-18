@@ -1,5 +1,5 @@
 using system;
 
 static void main(void){
-  console.writeline("Hello World\n");
+  console.writeline("hallo wereld\n");
 }
